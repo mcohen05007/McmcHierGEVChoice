@@ -3,8 +3,8 @@
 % W: www.macohen.net
 % E: michael@macohen.net
 % Proper citation is appreciated for use or adaptation, please cite as:
-% Cohen, M. A. (2015). Aysmptotically Exact Embarassingly Parallel MCMC [Computer software]. 
-% Retrieved from http://www.macohen.net/software or https://github.com/mcohen05007/parallelmcmc
+% Cohen, M. A. (2015). MCMC for Hierarchical GEV Choice Model [Computer software]. 
+% Retrieved from http://www.macohen.net/software or https://github.com/mcohen05007/McmcHierGEVChoice
 clear
 clc
 
